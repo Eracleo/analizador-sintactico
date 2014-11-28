@@ -1,0 +1,12 @@
+-- 1) ----
+S=ABC A=xB B=y C=ab
+
+I: S=A.BC
+J: A=xB. B=.y
+
+
+-- 2) ----
+S=(A) A=CB B=iA B=3 C=x C=S
+
+I: S=(.A) B=;.A C=.x
+J: A=.CB C=.S A=C.B
