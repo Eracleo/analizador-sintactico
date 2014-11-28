@@ -1,0 +1,19 @@
+E=A*B A=B B=n
+
+S=L L=L,i L=i
+
+E=E+E E=E-E E=E*E E=E/E E=n
+-n-n/n*n
+n+n
+
+E=E+E E=E*E E=x
+-n-n*n
+S=(A) A=CB B=;A B=3 C=x C=S
+si ((x;x);x)
+no (xx;)
+
+V=V:V; V=X V=Y Y=i
+
+S>L=R S>R L>*R L>i R>L
+****i
+*i*i*i*i
